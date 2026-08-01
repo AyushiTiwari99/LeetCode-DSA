@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Array
+|  |
+| ------- |
+| [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 <!---LeetCode Topics End-->
