@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -27,8 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
+| [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
+| [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
 <!---LeetCode Topics End-->
