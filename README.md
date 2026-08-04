@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Game Theory
