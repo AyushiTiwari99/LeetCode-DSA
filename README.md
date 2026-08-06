@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
