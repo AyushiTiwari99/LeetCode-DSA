@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Game Theory
 |  |
 | ------- |
