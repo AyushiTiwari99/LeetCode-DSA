@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
