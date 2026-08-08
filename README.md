@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Game Theory
 |  |
