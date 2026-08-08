@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Math
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
