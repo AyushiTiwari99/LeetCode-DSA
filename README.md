@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Counting
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
