@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Game Theory
@@ -120,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
