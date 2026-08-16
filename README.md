@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0072-edit-distance) |
+| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Binary Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
