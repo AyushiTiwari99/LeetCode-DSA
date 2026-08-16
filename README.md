@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Game Theory
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
