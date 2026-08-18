@@ -1,18 +1,22 @@
 class Solution {
-    boolean isPalin(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        sb.reverse();
-
-        return s.equals(sb.toString());
-    }
     public int countSubstrings(String s) {
         int n=s.length();
+        boolean t[][]=new boolean[n][n];
         int c=0;
-        for(int i=0; i<n; i++){
-            String sub="";
-            for(int j=i; j<n; j++){
-                sub=s.substring(i, j+1);
-                if(isPalin(sub))
+
+        for(int L=1; L<=n; L++){
+            for(int i=0; i+L-1<n; i++){
+                int j=i+L-1;
+
+                if(L==1){
+                    t[i][j]=true;
+                }else if(L==2){
+                    t[i][j]=(s.charAt(i)==s.charAt(j));
+                }else{
+                    t[i][j]=((s.charAt(i)==s.charAt(j)) && t[i+1][j-1]);
+                }
+
+                if(t[i][j])
                 c++;
             }
         }
