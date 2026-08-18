@@ -83,4 +83,16 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
