@@ -72,3 +72,15 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 **Connect:** [LinkedIn](https://linkedin.com/in/ayushi-tiwari-408a61302) · [GitHub](https://github.com/AyushiTiwarii99)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+<!---LeetCode Topics End-->
