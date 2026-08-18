@@ -86,13 +86,20 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
