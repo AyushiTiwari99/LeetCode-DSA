@@ -1,157 +1,74 @@
-# LeetCode-DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<div align="center">
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## String
-|  |
-| ------- |
-| [0072-edit-distance](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0072-edit-distance) |
-| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
-| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
-| [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
-| [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
-| [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## Greedy
-|  |
-| ------- |
-| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-## Sorting
-|  |
-| ------- |
-| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
-| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
-| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
-## Counting
-|  |
-| ------- |
-| [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
-| [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
-| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
-| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
-| [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
-| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
-| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
-| [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
-| [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
-| [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
-| [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
-| [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
-| [3355-zero-array-transformation-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3355-zero-array-transformation-i) |
-| [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
-| [1109-corporate-flight-bookings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1109-corporate-flight-bookings) |
-| [1854-maximum-population-year](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1854-maximum-population-year) |
-| [2381-shifting-letters-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2381-shifting-letters-ii) |
-| [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
-| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
-| [3355-zero-array-transformation-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3355-zero-array-transformation-i) |
-| [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
-| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
-| [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
-| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
-| [3356-zero-array-transformation-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3356-zero-array-transformation-ii) |
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0070-climbing-stairs) |
-| [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
-| [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
-| [3345-smallest-divisible-digit-product-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0070-climbing-stairs) |
-| [0072-edit-distance](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0072-edit-distance) |
-| [0198-house-robber](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0198-house-robber) |
-| [0213-house-robber-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0213-house-robber-ii) |
-| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
-| [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
-| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
-| [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
-| [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
-| [1048-longest-string-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1048-longest-string-chain) |
-| [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
-| [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
-| [1911-maximum-alternating-subsequence-sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
-## Game Theory
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0877-stone-game) |
-## Recursion
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0070-climbing-stairs) |
-| [0509-fibonacci-number](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0509-fibonacci-number) |
-## Sliding Window
-|  |
-| ------- |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
-## Enumeration
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
-## Matrix
-|  |
-| ------- |
-| [2536-increment-submatrices-by-one](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/2536-increment-submatrices-by-one) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
-## Simulation
-|  |
-| ------- |
-| [1094-car-pooling](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1094-car-pooling) |
-## Longest Increasing Subsequence
-|  |
-| ------- |
-| [0300-longest-increasing-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
-| [0646-maximum-length-of-pair-chain](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
-## Longest Common Subsequence
-|  |
-| ------- |
-| [1092-shortest-common-supersequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1092-shortest-common-supersequence) |
-| [1143-longest-common-subsequence](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
-<!---LeetCode Topics End-->
+# 📘 LeetCode DSA
+
+Daily Data Structures & Algorithms practice — auto-synced from LeetCode using [LeetHub](https://github.com/QasimWani/LeetHub).
+This repo is my personal revision vault: every solved problem, with runtime/memory stats, organized for quick review before interviews.
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Practice-8A2BE2?style=for-the-badge)
+
+</div>
+
+---
+
+## 📌 About This Repo
+
+Every problem I solve on LeetCode gets pushed here automatically via LeetHub — code, runtime, and memory usage included. I use this repo to:
+
+- Track daily/weekly solving consistency
+- Revisit and re-solve problems before interviews without rewriting notes from scratch
+- Spot patterns across topics (DP, sliding window, prefix sums, etc.) by browsing folder names
+- Keep a timestamped history of my problem-solving progress
+
+Each folder is named after the problem (e.g. `0300-longest-increasing-subsequence`) and contains my accepted solution along with performance stats at time of submission.
+
+## 🧠 Topics Covered
+
+- Dynamic Programming (Climbing Stairs, House Robber I/II, LIS, LCS, Edit Distance, Palindromic Substrings)
+- Arrays & Prefix Sums (Corporate Flight Bookings, Zero Array Transformation, Car Pooling)
+- Strings (Shifting Letters II, Longest Substring with Two Occurrences)
+- Greedy & Math (Maximum Alternating Subsequence Sum, GCD-based problems)
+- Matrix Operations (Increment Submatrices by One)
+- Sliding Window / Two Pointers
+
+*(Growing continuously as I solve more problems.)*
+
+## 🔥 Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcode-stats-two.vercel.app/api?username=AyushiTiwarii99&theme=radical)
+
+</div>
+
+> Stats are pulled live from my LeetCode profile — check [my LeetCode profile](https://leetcode.com/AyushiTiwarii99/) directly for the most up-to-date numbers.
+
+## 🗂️ How This Repo Is Organized
+
+```
+LeetCode-DSA/
+├── 0026-remove-duplicates-from-sorted-array/
+├── 0070-climbing-stairs/
+├── 0072-edit-distance/
+├── ...
+├── README.md
+└── stats.json          # auto-generated stats snapshot via LeetHub
+```
+
+Each folder typically contains:
+- The accepted solution file
+- A per-problem README (auto-generated) showing runtime %, memory %, and submission date
+
+## 🤝 Why I Maintain This
+
+Solving a problem once isn't enough to make it stick — this repo lets me revisit old solutions, compare my approach over time, and revise efficiently instead of re-searching explanations every time. It's also a transparent, timestamped record of consistency for anyone reviewing my profile.
+
+---
+
+<div align="center">
+
+**Connect:** [LinkedIn](https://linkedin.com/in/ayushi-tiwari-408a61302) · [GitHub](https://github.com/AyushiTiwarii99)
+
+</div>
