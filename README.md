@@ -78,6 +78,7 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 ## Array
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -102,4 +103,8 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
