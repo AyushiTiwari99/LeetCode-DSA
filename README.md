@@ -99,6 +99,7 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 ## Manacher
@@ -112,9 +113,14 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
