@@ -78,6 +78,7 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0063-unique-paths-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -102,6 +103,7 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 ## Manacher
@@ -125,4 +127,8 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
