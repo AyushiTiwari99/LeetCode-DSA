@@ -80,6 +80,7 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 | ------- |
 | [0018-4sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0018-4sum) |
 | [0063-unique-paths-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0063-unique-paths-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -139,4 +140,9 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0018-4sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
