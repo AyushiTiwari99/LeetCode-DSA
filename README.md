@@ -85,6 +85,7 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,8 +142,13 @@ Solving a problem once isn't enough to make it stick — this repo lets me revis
 | ------- |
 | [0018-4sum](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/0018-4sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Quicksort
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/AyushiTiwari99/LeetCode-DSA/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 <!---LeetCode Topics End-->
